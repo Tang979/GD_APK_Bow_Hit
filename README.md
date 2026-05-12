@@ -1,10 +1,10 @@
 # Bow Hit
 
 ## Video Gameplay
-[Watch Gameplay](link)
+[Watch Gameplay](https://youtube.com/shorts/F9uFyXbLhtk)
 
 ## APK
-[Download APK](link)
+[Download APK](https://github.com/Tang979/GDD_APK_Bow_Hit/releases)
 
 ## Source Code
 [View Source Code](https://github.com/nguyenkhacnhat203-dev/BowGame2D)
